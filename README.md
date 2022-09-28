@@ -1,6 +1,8 @@
 # Chennai_sale_price_project
 Chennai House Price Prediction
+
 Problem Statement
+
 Real estate transactions are quite opaque sometimes and it
 may be difficult for a newbie to know the fair price of any given
 home. Thus, multiple real estate websites have the functionality
@@ -14,8 +16,10 @@ customers to find a fair price for their homes and also help the
 sellers understand what factors are fetching more money
 for the houses?
 Data
+
 The historical sale data is available here.
 Minimum Requirements
+
 It is not sufficient to just fit a model - the model must be
 analysed to find the important factors that contribute towards
 the price. Also, it will be better to give a forecast range (range
